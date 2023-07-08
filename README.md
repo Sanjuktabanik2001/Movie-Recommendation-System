@@ -18,9 +18,11 @@ This project aims to create a personalized movie recommendation engine using con
 
 ![image](https://github.com/Sanjuktabanik2001/Movie-Recommendation-System/assets/80545634/ef3a8152-7b02-46ab-bba2-8221eefc9ef7)
 
-![image](https://github.com/Sanjuktabanik2001/Movie-Recommendation-System/assets/80545634/6a120c73-4aac-4f49-a700-c983170201af)
+![image](https://github.com/Sanjuktabanik2001/Movie-Recommendation-System/assets/80545634/4f14e14a-fc3c-4bf2-9a3d-ce3d481ae8e7)
+
 
 ****Jupyter Notebook Commands****
+https://github.com/Sanjuktabanik2001/Movie-Recommendation-System/assets/80545634/7af8e5da-4611-4bba-a6b6-bcad229ab4c9
 
-https://github.com/Sanjuktabanik2001/Movie-Recommendation-System/assets/80545634/8a0a0c37-f39e-4bf0-88a6-f8062d18ec14
+
 
