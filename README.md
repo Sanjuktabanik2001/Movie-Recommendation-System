@@ -2,7 +2,7 @@
 
 This project aims to create a personalized movie recommendation engine using consise machine-learning techniques that suggest relevant movies to users based on their preferrences and  movie attributes such as ratings, overview, genres, keywords, cast and crew.
 
-###Key Features
+**Key Features**
 Data Collection and Preprocessing: I gathered a large dataset of movie information, including genres, ratings, reviews, and user preferences. The dataset was cleaned and processed to ensure data integrity and consistency.
 
 Feature Engineering: I extracted relevant features from the dataset, such as movie genres, actors, directors, and user ratings, to create a comprehensive representation of movies and users.
