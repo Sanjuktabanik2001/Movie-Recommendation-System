@@ -13,3 +13,14 @@ This project aims to create a personalized movie recommendation engine using con
 ***Evaluation and Optimization***: I conducted rigorous evaluation and testing of the recommendation system to measure its accuracy and performance. I employed techniques like cross-validation and metrics like precision, recall, and mean average precision to assess the system's effectiveness. Additionally, I optimized the algorithms and parameters to enhance the quality of recommendations.
 
 ***User Interface***: To enhance user experience, I designed and implemented an intuitive user interface where users could input their preferences and receive personalized movie recommendations.
+
+****Movie Recommendation Website Interface****
+
+![image](https://github.com/Sanjuktabanik2001/Movie-Recommendation-System/assets/80545634/ef3a8152-7b02-46ab-bba2-8221eefc9ef7)
+
+![image](https://github.com/Sanjuktabanik2001/Movie-Recommendation-System/assets/80545634/6a120c73-4aac-4f49-a700-c983170201af)
+
+****Jupyter Notebook Commands****
+
+https://github.com/Sanjuktabanik2001/Movie-Recommendation-System/assets/80545634/8a0a0c37-f39e-4bf0-88a6-f8062d18ec14
+
